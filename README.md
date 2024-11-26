@@ -1,4 +1,4 @@
-天玄应用示例，详细使用教程见：https://netease-blockchain.gitbook.io/thanos-tech-docs/quick-start/deploy-thanos-app
+天玄应用示例，详细使用教程见：https://tianxuan.blockchain.163.com/quick-start/deploy-tianxaun-app.html
 # 使用
 ## 环境
 - Oracle JDK 1.8
